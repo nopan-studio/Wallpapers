@@ -1,10 +1,6 @@
 <p align="center">
-<img src="icon.svg"/> <br>
-<img src="walls.svg"/> <br>
-<img src="actively-maintained.svg"/>
+<img src="greet.svg" />
 </p>
-
-> *A Simple Collection of my favorite Wallpapers*
 
 <p align="center">
 
