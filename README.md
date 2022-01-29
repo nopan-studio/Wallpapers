@@ -1,5 +1,7 @@
 <p align="center">
-<img src="greet.png" width="400"/>
+<img src="icon.svg"/> <br>
+<img src="walls.svg"/> <br>
+<img src="actively-maintained.svg"/>
 </p>
 
 > *A Simple Collection of my favorite Wallpapers*
