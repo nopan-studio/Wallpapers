@@ -4,21 +4,18 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/Static/bird.png" width="600"/>
-<img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/Static/calvin.jpg" width="600"/>
-<img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/Static/cat.jpg" width="600"/>
-<img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/Static/cosmos.png" width="600"/>
-<img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/Static/evening-sky.png" width="600"/>
-<img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/Static/floral.png" width="600"/>
-<img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/Static/girl.png" width="600"/>
-<img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/Static/heart.jpg" width="600"/>
-<img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/Static/mountain.jpg" width="600"/>
-<img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/Static/nature.jpg" width="600"/>
-<img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/Static/nordish.png" width="600"/>
-<img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/Static/record.png" width="600"/>
-<img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/Static/samurai.jpg" width="600"/>
-<img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/Static/shack.jpg" width="600"/>
-<img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/Static/studio.jpg" width="600"/>
-<img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/Static/supeesu.png" width="600"/>
+<img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/cat.jpg" width="600"/>
+<img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/cloudy.png" width="600"/>
+<img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/cosmos.png" width="600"/>
+<img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/evening-sky.png" width="600"/>
+<img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/forest.png" width="600"/>
+<img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/mountain.jpg" width="600"/>
+<img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/nature.jpg" width="600"/>
+<img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/nordish.png" width="600"/>
+<img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/record.png" width="600"/>
+<img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/samurai.jpg" width="600"/>
+<img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/shack.jpg" width="600"/>
+<img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/studio.jpg" width="600"/>
+<img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/calvin.jpg" width="600"/>
 
 </p>
