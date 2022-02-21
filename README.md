@@ -4,6 +4,7 @@
 
 <p align="center">
 
+<img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/car.jpg" width="600"/>
 <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/cat.jpg" width="600"/>
 <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/cloudy.png" width="600"/>
 <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/cosmos.png" width="600"/>
@@ -15,6 +16,7 @@
 <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/record.png" width="600"/>
 <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/samurai.jpg" width="600"/>
 <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/shack.jpg" width="600"/>
+<img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/street.png" width="600"/>
 <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/studio.jpg" width="600"/>
 <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/calvin.jpg" width="600"/>
 
