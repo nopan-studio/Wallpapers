@@ -1,5 +1,5 @@
 <p align="center">
-<img src="logo.svg" />
+<img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/logo.svg"/>
 </p>
 
 <br>
