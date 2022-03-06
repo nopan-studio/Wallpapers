@@ -2,6 +2,8 @@
 <img src="logo.svg" />
 </p>
 
+<br>
+
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/preview/alien.jpg" width="700"/>
