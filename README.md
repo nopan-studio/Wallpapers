@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-  
+
+  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/preview/astro.jpg" width="700"/>
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/preview/mechanical.jpg" width="700"/>
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/preview/alien.jpg" width="700"/>
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/preview/pool.jpg" width="700"/>
