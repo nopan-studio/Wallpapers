@@ -4,21 +4,24 @@
 
 <p align="center">
 
-  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/preview/market.jpg" width="700"/>
-  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/preview/cloudy.jpg" width="700"/>
-  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/preview/artist.jpg" width="700"/>
-  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/preview/astro.jpg" width="700"/>
-  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/preview/mechanical.jpg" width="700"/>
-  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/preview/alien.jpg" width="700"/>
-  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/preview/pool.jpg" width="700"/>
-  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/preview/valley.jpg" width="700"/>
-  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/preview/cosmos.jpg" width="700"/>
-  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/preview/street.jpg" width="700"/>
-  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/preview/studio.jpg" width="700"/>
-  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/preview/veranda.jpg" width="700"/>
-  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/preview/evening-sky.jpg" width="700"/>
-  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/preview/mountain.jpg" width="700"/>
-  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/preview/record.jpg" width="700"/>
-  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/preview/calvin.jpg" width="700"/>
+  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/two.jpg" width="700"/>
+  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/lady.jpg" width="700"/>
+  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/chair.jpg" width="700"/>
+  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/market.jpg" width="700"/>
+  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/cloudy.jpg" width="700"/>
+  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/artist.jpg" width="700"/>
+  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/astro.jpg" width="700"/>
+  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/mechanical.jpg" width="700"/>
+  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/alien.jpg" width="700"/>
+  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/pool.jpg" width="700"/>
+  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/valley.jpg" width="700"/>
+  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/cosmos.jpg" width="700"/>
+  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/street.jpg" width="700"/>
+  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/studio.jpg" width="700"/>
+  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/veranda.jpg" width="700"/>
+  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/evening-sky.jpg" width="700"/>
+  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/mountain.jpg" width="700"/>
+  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/record.jpg" width="700"/>
+  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/calvin.jpg" width="700"/>
 
 </p>
