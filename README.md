@@ -4,12 +4,12 @@
 
 <p align="center">
 
+  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/game.jpg" width="700"/>
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/two.jpg" width="700"/>
+  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/calvin.jpg" width="700"/>
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/lady.jpg" width="700"/>
-  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/chair.jpg" width="700"/>
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/market.jpg" width="700"/>
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/cloudy.jpg" width="700"/>
-  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/artist.jpg" width="700"/>
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/astro.jpg" width="700"/>
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/mechanical.jpg" width="700"/>
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/alien.jpg" width="700"/>
@@ -22,6 +22,5 @@
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/evening-sky.jpg" width="700"/>
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/mountain.jpg" width="700"/>
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/record.jpg" width="700"/>
-  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/calvin.jpg" width="700"/>
 
 </p>
