@@ -7,7 +7,6 @@
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/game.jpg" width="700"/>
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/two.jpg" width="700"/>
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/calvin.jpg" width="700"/>
-  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/lady.jpg" width="700"/>
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/market.jpg" width="700"/>
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/cloudy.jpg" width="700"/>
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/astro.jpg" width="700"/>
