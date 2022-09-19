@@ -4,7 +4,8 @@
 
 <p align="center">
 
-  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/fiji.png" width="700"/>
+  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/sakura.jpg" width="700"/>
+  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/fiji.jpg" width="700"/>
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/journey.jpg" width="700"/>
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/urban.jpg" width="700"/>
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/carina.jpg" width="700"/>
@@ -14,7 +15,6 @@
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/calvin.jpg" width="700"/>
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/market.jpg" width="700"/>
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/cloudy.jpg" width="700"/>
-  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/astro.jpg" width="700"/>
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/mechanical.jpg" width="700"/>
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/alien.jpg" width="700"/>
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/pool.jpg" width="700"/>
