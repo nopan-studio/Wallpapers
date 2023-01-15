@@ -4,8 +4,10 @@
 
 <p align="center">
   
-  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/bar.jpeg" width="700"/>
-  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/pinkish.jpg" width="700"/>
+  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/summer.jpg" width="700"/>
+  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/dreamy.jpeg" width="700"/>
+  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/bar.jpg" width="700"/>
+  <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/pinkish.jpeg" width="700"/>
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/house.jpg" width="700"/>
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/girl.png" width="700"/>
   <img src="https://raw.githubusercontent.com/Harshit-T/Wallpapers/main/walls/evening-sky.jpg" width="700"/>
